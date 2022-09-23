@@ -1,9 +1,9 @@
 import styles from './Home.css';
 
 export default function Home() {
-    return (
+  return (
     <main>
       <p>Hello World</p>
     </main>
-    );
+  );
 }
