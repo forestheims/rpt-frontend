@@ -2,7 +2,7 @@ import styles from './Home.css';
 
 export default function Home() {
   return (
-    <main>
+    <main className={styles.Home}>
       <p>Hello World</p>
     </main>
   );

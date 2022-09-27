@@ -2,7 +2,7 @@ import styles from './Browse.css';
 
 export default function () {
   return (
-    <div>
+    <div className={styles.Browse}>
       <p>Browse</p>
     </div>
   );
